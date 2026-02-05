@@ -1,0 +1,9 @@
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-001.txt.gz
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-002.txt.gz
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-003.txt.gz
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-004.txt.gz
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-005.txt.gz
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-006.txt.gz
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-007.txt.gz
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-008.txt.gz
+https://cdn.jsdelivr.net/gh/battauk/syreeg@prod/sitemap-009.txt.gz
